@@ -1,33 +1,35 @@
-# Welcome to PlanAsli's GitHub 👋
+# Welcome to PlanAsli's GitHub 💡  
 
-Hi there! I'm **PlanAsli**, a Python enthusiast and developer with a passion for building efficient, practical, and scalable solutions. My GitHub is a space where I showcase my projects and experiments in the world of programming. 🚀
+Hello! I'm **PlanAsli**, a Python developer passionate about creating practical and impactful solutions. My GitHub is where I explore the intersection of innovation and technology. 🌐  
 
----
+---  
 
-## About Me  
-- 💻 **Primary Language**: Python  
-- 🛠️ **Interests**: Networking, automation, and open-source contributions  
-- 🌱 **Currently Exploring**: Advanced networking concepts and Python frameworks  
+## 🔧 About Me  
+- **💻 Expertise**: Python  
+- **🛠️ Interests**: Networking, automation, and optimizing workflows  
+- **🌱 Learning**: Advanced Python techniques & modern networking concepts  
 
----
+I believe in simplicity, efficiency, and writing clean, maintainable code.  
 
-## Highlighted Project  
+---  
+
+## 🚀 Featured Project  
 
 ### [Configs Collector for V2Ray](https://github.com/PlanAsli/configs-collector-v2ray)  
-A Python-powered project designed to streamline the process of managing and organizing V2Ray configurations. With this tool, you can:  
-- 📂 Collect and organize configuration files  
-- ⚡ Simplify management of multiple setups  
-- 🔒 Focus on security and performance  
 
-Feel free to check out the repository and contribute if you're interested in this project.  
+This project is a Python-powered tool to streamline managing and organizing V2Ray configurations.  
 
----
+- 🔄 Automates configuration collection  
+- ⚡ Enhances setup management for users  
+- 🔐 Focused on security and performance  
 
-## Let's Connect  
-I'm always open to feedback, collaboration, or even just a quick chat about technology!  
+Contributions and feedback are always welcome!  
 
-- 📫 **Email**: [PlanAsli@outlook.com]  
-- 🌐 **Portfolio**: [Coming Soon]  
-- 🐦 **Twitter**: [@YourHandle]  
+---  
 
-Thanks for visiting my profile. Don't forget to star ⭐ the projects you like! 😊
+## 📬 Get in Touch  
+
+Have a question or want to collaborate? Reach out to me via email:  
+📧 **PlanAsli@outlook.com**  
+
+Thanks for stopping by! Make sure to check out my projects, and if you like what you see, leave a star ⭐. Your support means a lot! 🙌  

@@ -1,61 +1,33 @@
-# 🚀 PlanAsli's Hub
+# Welcome to PlanAsli's GitHub 👋
 
-Welcome to the heart of my digital creations! I'm **PlanAsli**, a developer driven by innovation and a passion for cutting-edge technology. Whether it's automating workflows, building intuitive user experiences, or exploring the depths of AI, I aim to leave a mark of excellence in every project.
-
----
-
-## 🌌 Vision
-
-At the intersection of creativity and logic, I believe technology is the ultimate tool to craft meaningful solutions that empower people worldwide. My work is focused on:
-
-- 🌟 **Transformative Digital Experiences**
-- 🧠 **AI-Driven Insights and Tools**
-- ⚙️ **Efficient and Scalable Systems**
-- 🎨 **Creative and Immersive Design**
+Hi there! I'm **PlanAsli**, a Python enthusiast and developer with a passion for building efficient, practical, and scalable solutions. My GitHub is a space where I showcase my projects and experiments in the world of programming. 🚀
 
 ---
 
-## 🛠️ Skills & Expertise
-
-### 💻 Development:
-- **Languages:** JavaScript, Python, C#, HTML/CSS
-- **Frameworks:** React, Node.js, Django, Unity
-
-### 🚀 DevOps & Tools:
-- Docker, Kubernetes, Git/GitHub, CI/CD Pipelines
-- Cloud Platforms: AWS, Google Cloud
-
-### 🎨 Design & Prototyping:
-- Figma, Adobe XD, Unity Engine
+## About Me  
+- 💻 **Primary Language**: Python  
+- 🛠️ **Interests**: Networking, automation, and open-source contributions  
+- 🌱 **Currently Exploring**: Advanced networking concepts and Python frameworks  
 
 ---
 
-## 🌐 Explore My Work
+## Highlighted Project  
 
-### [Beta](https://github.com/PlanAsli/Beta)
+### [Configs Collector for V2Ray](https://github.com/PlanAsli/configs-collector-v2ray)  
+A Python-powered project designed to streamline the process of managing and organizing V2Ray configurations. With this tool, you can:  
+- 📂 Collect and organize configuration files  
+- ⚡ Simplify management of multiple setups  
+- 🔒 Focus on security and performance  
 
-An experimental playground where ideas evolve into fully-fledged projects. Here, you'll find the essence of creativity and innovation—be it concepts in development, prototypes, or cutting-edge experiments.
-
----
-
-## 📊 GitHub Stats & Highlights
-
-![PlanAsli's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PlanAsli&show_icons=true&theme=merko)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PlanAsli&layout=compact&theme=merko)
+Feel free to check out the repository and contribute if you're interested in this project.  
 
 ---
 
-## 🌟 Let's Connect
+## Let's Connect  
+I'm always open to feedback, collaboration, or even just a quick chat about technology!  
 
-I’m always open to collaboration, brainstorming, and sharing ideas. Feel free to reach out or follow me on:
+- 📫 **Email**: [PlanAsli@outlook.com]  
+- 🌐 **Portfolio**: [Coming Soon]  
+- 🐦 **Twitter**: [@YourHandle]  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/PlanAsli/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/PlanAsli)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://planasli.dev)
-
----
-
-### ✍️ My Philosophy
-> *"Technology is a canvas, and code is the brush."*
-
-Thank you for stopping by! Dive into my repositories, star what inspires you, or drop a message if you’d like to create something incredible together. 🚀
+Thanks for visiting my profile. Don't forget to star ⭐ the projects you like! 😊

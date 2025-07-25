@@ -1,6 +1,6 @@
 # Welcome to PlanAsli's GitHub 🚀  
 
-Hi there! I'm **PlanAsli**, a Python developer with a knack for creating efficient tools and solutions that make life easier. Here, I share my journey, projects, and experiments in the world of programming.  
+Hi there! I'm **eQnz**, a Python developer with a knack for creating efficient tools and solutions that make life easier. Here, I share my journey, projects, and experiments in the world of programming.  
 
 ---
 
